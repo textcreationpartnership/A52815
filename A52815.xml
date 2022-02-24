@@ -1,0 +1,650 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A philosophical and divine discourse blazoning upon this blazing star divided into three parts; the I. Treating on the product, form, colour, motion, scituation [sic], and signification of comets. II. Contains the prognosticks of comets in general, and of this in particular; together with a chronology of all the comets for the last 400 years. III. Consists of (1.) the explication of the grand concerns of this comet by astrological precepts and presidents. (2.) The application of its probable prognosticks astrologically and theologically. / By Christopher Nesse, minister of the gospel, in London, 1681.</title>
+            <title>Full and true account of the late blazing-star. Parts 1-3.</title>
+            <author>Ness, Christopher, 1621-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52815</idno>
+            <idno type="STC">Wing N460</idno>
+            <idno type="STC">ESTC R218855</idno>
+            <idno type="EEBO-CITATION">99830411</idno>
+            <idno type="PROQUEST">99830411</idno>
+            <idno type="VID">34862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34862)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2073:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A philosophical and divine discourse blazoning upon this blazing star divided into three parts; the I. Treating on the product, form, colour, motion, scituation [sic], and signification of comets. II. Contains the prognosticks of comets in general, and of this in particular; together with a chronology of all the comets for the last 400 years. III. Consists of (1.) the explication of the grand concerns of this comet by astrological precepts and presidents. (2.) The application of its probable prognosticks astrologically and theologically. / By Christopher Nesse, minister of the gospel, in London, 1681.</title>
+                  <title>Full and true account of the late blazing-star. Parts 1-3.</title>
+                  <author>Ness, Christopher, 1621-1705.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Wilkins, and J. Sampson [and L. Curtiss on Ludgate-hill],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title printed on verso of pi¹; title page is illustrated (woodcuts).</note>
+                  <note>Imprint from colophon of part 1; additional name from colophons of parts 2-3.</note>
+                  <note>A reissue of "A full and true account of the late blazing-star" with the additions of "A second sheet, further blazoning upon the blazing-star" and "A third sheet, shewing a further and fuller blazoning upon this particular blazing-star"; each part has a caption title; pagination and register are continuous.</note>
+                  <note>Copy has print show-through, slightly affecting text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Comets --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34862:1"/>
+            <p>A Philoſophical and Divine DISCOURSE Blazoning upon this Blazing STAR: Divided into Three Parts;</p>
+            <p>The I. Treating on the <hi>Product, Form, Colour, Motion, Scituation,</hi> and <hi>Signi<g ref="char:EOLhyphen"/>fication</hi> of <hi>COMETS.</hi>
+            </p>
+            <p n="2">II. Contains the Prognoſticks of <hi>Comets</hi> in Gene<g ref="char:EOLhyphen"/>ral, and of this in particular; together with a CHRONOLOGY of all the Comets for the laſt 400 years.</p>
+            <p n="3">III. Conſiſts of (1.) the <hi>Explication</hi> of the grand Concerns of this COMET by Aſtrological Precepts and Preſidents. (2.) The <hi>Ap<g ref="char:EOLhyphen"/>plication</hi> of its probable Prognoſticks Aſ<g ref="char:EOLhyphen"/>trologically and Theologically.</p>
+            <p>By <hi>Chriſtopher Neſſe,</hi> Miniſter of the Goſpel, in <hi>London,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:34862:1" rendition="simple:additions"/>
+            <head>A Full and True ACCOUNT Of the Late BLAZING-STAR: With ſome probable Prognoſticks upon what may be its Effects.</head>
+            <p>ABlazing Star is called a <hi>Comet</hi> from the Latin word <hi>Coma,</hi> the Hair, becauſe it ſeemeth to ſend forth Streamers of flaming Hair to thoſe that behold it a far off. There be various Opinions of Authors concerning thoſe <hi>Comets:</hi> ſome whereof are ſo improbable, that only to report them, is enough to refute them. As, 1. <hi>Democritus</hi> dreamed that <hi>Comets</hi> were the Souls of famous Men triumphing in Heaven. 2. <hi>Thaddeus</hi> thinketh that they are the Secrets of Nature, and (like the occult Quality of Philoſophers) ought not to be enquired after. 3. <hi>Para<g ref="char:EOLhyphen"/>celſus</hi> ſuppoſeth that they are Fires carried about by Spirits which are conſcious of their own Fates. 4. <hi>Anaxagoras</hi> imagines them to be a Conjunct Apparition of Planets; becauſe when Planets come near together they ſeem to touch one another, and that Conjunction of 2 or 3 Lights into one, cauſeth the <hi>Phoenomenon,</hi> or Appearance of a longer Star; which by varying its Place, varieth its Form alſo. 5, <hi>Appianus</hi> and <hi>Proetorius</hi> (both) acknowledge that <hi>Comets</hi> are Meteors, or Vapours exhaled, yet deny that they are inflamed, or fer on fire in their own Bodily Matter, but only enlightned by the Refract Rays of the Sun and other Stars, both upon its Body and Tail. 6. But this laſt Opinion of <hi>Ariſtotle</hi> is moſt probable; that a <hi>Comet</hi> is a Fiery Meteor made up of Copi<g ref="char:EOLhyphen"/>ous, Viſcous and Fat Vapours, drawn up into the higheſt Region of the Air by the influence of the Sun and Stars; and then when it is ripened, taketh Fire, and ſhineth in the Figure of a Star, to
+<pb n="2" facs="tcp:34862:2"/>the Aſtoniſhment of all its Beholders. Beſides thoſe (properly cal<g ref="char:EOLhyphen"/>led) <hi>Comets</hi> engendred in the Elementary Region, it is ſuppoſed there be ſome other new Stars ſometimes ſeen above the Moon in the Aetherial Region, ſuch as that which appeared in <hi>Caſſiopoea,</hi> in the Year 1574. every way like a Star in Form and Light, ſave only its Splendor and Magnitude exceeded the greateſt of Planets. This could not properly be called a <hi>Comet:</hi> 1. Becauſe it removed not from that Point of Heaven wherein it firſt appeared, but kept conſtant in the Conſtellation till it diſappeared. 2. Becauſe it con<g ref="char:EOLhyphen"/>tinued in view for a whole Year, and more than a Quarter. 3. Be<g ref="char:EOLhyphen"/>cauſe it had neither Hair nor Tail or Train, as <hi>Comets</hi> have; which likewiſe remove from one part of Heaven to another, and never continue ſo long as that did. 'Tis not improbable that ſuch new Stars God (for a time) withdraws from Men's ſight, that the Sign of his <hi>Anger</hi> or <hi>Favour</hi> might be the more admired: For theſe do not waſte away, as (properly called) <hi>Comets</hi> do; but only lie hid from the Eye, ſeeing Heaven cannot admit of new Bodies. That Star which appeared to the Wife Men, <hi>Matth.</hi> 2. was not a Natural, but a Miraculous Star. 1. Becauſe it ſhone not in the Celeſtial, but in the Elementary Region; yea, in the loweſt part of it, ſo as to guide the three Men to a certain Houſe over which it ſtood. 2. Becauſe it had not the Motion of a Natural Star, but ſuch as was Accommodated every way to the Travel of the Wiſe Men. 3. Its Progreſs was unequal, ſometimes <hi>Appearing,</hi> and ſometimes <hi>Diſappearing.</hi> 4. It did not only ſhine forth by <hi>Night,</hi> but alſo by <hi>Day.</hi> Yea, 5. With ſuch a Splendour, as far exceeded, not on<g ref="char:EOLhyphen"/>ly that of the Stars, but alſo the Sun it ſelf; as <hi>Ignatius, Chriſoſtom, &amp;c.</hi> do teſtifie. Some ſay, that Star in <hi>Matth.</hi> 2. was the Holy Ghoſt which appeared (at Chriſt's Baptiſm) in the Form of a <hi>Dove,</hi> as at his Birth in the Form of a Star, being moſt Conſentaneous to thoſe Eaſtern Sages: For as a mighty Draught of Fiſh was the apt<g ref="char:EOLhyphen"/>eſt Sign to make <hi>Peter</hi> (a Fiſher-man) to follow Chriſt, ſo this Sign of a Star was beſt accommodated to theſe Men of the Eaſt, it being moſt familiar to them in their frequent Study of the Stars. But more probably <hi>Chriſoſtom</hi> judgeth it was an Angel [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] a certain inviſible Power to be the Guide of their Journey, as the Pillar of Glory was <hi>Iſrael</hi>'s in the Wilderneſs, <hi>Exod.</hi> 13.21,
+<pb n="3" facs="tcp:34862:2" rendition="simple:additions"/>22. Yea, ſome do affirm that it was the ſame Angel who appeared alſo to the Shephards, <hi>Luke</hi> 2.9. But the Elementary <hi>Comets</hi> can<g ref="char:EOLhyphen"/>not in any proper Senſe) be called Stars (though their common Name be Blazing Stars.) Becauſe, 1. They have a different Form, no way congruous to that of Stars. 2. They grow Greater and Leſſer. 3. They have an Uncertain and Vagabond Motion. 4. Their Matter is an Hot and Dry Exhalation, which is Slimy and Sul<g ref="char:EOLhyphen"/>phurous; and which being ſpent, they vaniſh away: Thoſe things hold no Congruity with proper Stars. Philoſophy ſaith, that thoſe <hi>Comets</hi> are compoſed of a Matter full of Mettalline or Mine<g ref="char:EOLhyphen"/>ral Vapours, which is both thruſt out of the Bowels of the Earth by an Internal Heat from the Subterraneous Spirits, and extracted thence alſo by an External Heat from the Celeſtial Bodies; whereby likewiſe it is drawn up into the Upper Region. One part of this Fuliginous Smoak, thruſting up, and cleaving cloſe to another, till it become as big as a Mountain, then it hangs pendulouſly, and mellows kindly into a Combuſtible Subſtance. Then takes it fire; and the Colour of that Star by whoſe force it is Generated and Governed: And when all this is done, though it be of a vaſt Magnitude, yet through the great Diſtance of Place<g ref="char:punc">▪</g> it ſeems to us as a very little Spangle or Spur-Rowel, if ſevered from its Train or Streamer. Touching theſe Comets, Theſe four things are prin<g ref="char:EOLhyphen"/>cipally conſiderable after their Product or Generation. 1. Their <hi>Form.</hi> 2. Their <hi>Colour.</hi> 3. Their <hi>Motion.</hi> 4. Their <hi>Signification.</hi> 1. Of their <hi>Form,</hi> which is various: one <hi>Comet</hi> hath a <hi>Beard,</hi> ano<g ref="char:EOLhyphen"/>ther a <hi>Tail,</hi> and a third is <hi>Hairy</hi> round about. This flows from the Flame of the fired Vapour diverſly diſperſed. 1. If it ſpread its Flame upon its former part, then it is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Barbatus,</hi> a Bearded <hi>Comet,</hi> as having the Flame (as a Man's Beard, or a Horſes Main) hanging downward. 2. If from the latter part the Flame ſputter out behind, following after the Body, then it is called <hi>Can<g ref="char:EOLhyphen"/>datus,</hi> a Tailed <hi>Comet.</hi> But 3. If it ſpit Fire from all parts round about, then is it called <hi>Crinitus,</hi> an Hairy <hi>Comet,</hi> when it is ſur<g ref="char:EOLhyphen"/>rounded with Rays of Fire, as the Buſhy Head is with Hair. Thus the diverſity of Flames produceth diverſity of Forms in them, yet moſtly ſuch as have Trains or Tails; for the hinder part (being not ſo compact as the former) ſooneſt taketh Fire, and ſputters
+<pb n="4" facs="tcp:34862:3"/>out a Flame (as we ſee in Squibs or Fuzzees) like a long Beſom<g ref="char:EOLhyphen"/>or the Tail of a Peacock. 2. Of their <hi>Colour,</hi> which Diſtinction they derive from the Dominion of the Planet in their Generation, which may eaſily be diſcerned by their various Colours. <hi>Comets</hi> have their Dusky and Leaden Colour from <hi>Saturn,</hi> Splendid from <hi>Jupiter,</hi> Fiery from <hi>Mars,</hi> Golden from the <hi>Sun,</hi> Silver from the <hi>Moon,</hi> Yellow from <hi>Venus,</hi> and of changeable Colours from <hi>Mer<g ref="char:EOLhyphen"/>cury:</hi> And all theſe various Colours are ſuppoſed to be various In<g ref="char:EOLhyphen"/>dications of differing Natures, as the Planets (from whence they derive them) do differ in their Natures and Influences one from another. 3. Of their <hi>Motion. Comets</hi> are of an Erratick Motion, as the new Stars immitate the fixed Stars, ſo do <hi>Comets</hi> immitate the Planets in their Motions: Some are moved according to the Motion of the <hi>Primum Mobile</hi> (to ſpeak <hi>ex Hypotheſi</hi>) to wit, from Eaſt to Weſt; but ſome ſlowlier fulfilling that Motion, and others more ſwiftly exceeding it. Their Motion is therefore called Erra<g ref="char:EOLhyphen"/>tick, becauſe it is not Regular and Certain, as that of the fixed Stars is, whoſe Riſing and Setting are certainly known; but the Motion of Comets is ſometimes nearer, and ſometimes further off from the <hi>Zodiack,</hi> as the Motion of the Planets is: Yet not altogether as the Planets, which never remove far from the <hi>Zodi<g ref="char:EOLhyphen"/>ack,</hi> but have always certain and well known Bounds of their Mo<g ref="char:EOLhyphen"/>tions: whereas <hi>Comets</hi> have an Irregular Motion, and (as to the <hi>Zodiack</hi>) plainly Eccentrick, wandring far from it in their remote Appearances; and though Motion from Eaſt to Weſt be Regular, yet this happens by Accident, only becauſe the Upper Region of the Air (wherein <hi>Comets</hi> are both Engendred and Fired) is whirl'd about with the Heavens; hence the Comet therein wheels about with it. 4. Of their <hi>Signification.</hi> The principal thing intended, to wit, the Prognoſticks of them. 'Tis true, there be ſome who deny altogether their Significancy; as <hi>Eraſtus, Gryneus,</hi> and others: but 'tis too too manifeſt that <hi>Comets</hi> are not mute things, but that they are Signs which God placeth in Heaven, to preach ſomething to Men on Earth. No Man in his right Mind can ſay, that the moſt wiſe God doth make any thing in vain, or that the Father of Lights ſhould hang out ſuch a ſtrange and ſtupendious Light
+<pb n="5" facs="tcp:34862:3" rendition="simple:additions"/>up aloft (to be ſeen far and wide) and this not to portend ſome extraordinary thing. Conſult Antiquity, there is found. 1. That Greek Proverb, [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] <hi>There is no Comet which brings not ſome Evil.</hi> 2. That Verſe of <hi>Manilius,</hi>
+            </p>
+            <q>[Nunquam Futilibus Reſplenduit Ignibus Aether.]</q>
+            <p>God never Fires his Beacon (ſet upon ſo high a Hill) but thoſe below had need look to themſelves. 3. That other Trite Verſe (which is a <hi>Synonymon &amp; Synbolizeth</hi> with the two former</p>
+            <q>Et Nunquam Coelo Spectati Impune Cometae</q>
+            <p>That is, never doth the Earth 'ſcape Scot-free, when Heaven holds forth a Blazing Star to her View. This is confirmed by all Hiſtories, eſpecially thoſe of later Times, whereof I could give many Inſtances. The Chronology of <hi>Comets</hi> (to go no higher than the 13th Century after Chriſt to this preſent) doth afford us moſt Direful Effects of many <hi>Comets</hi> frequently appearing within that compaſs of time, a particular Account whereof a ſingle ſheet cannot compleatly comprehend, eſpecially to Diſcourſe upon them all, <hi>Phiſitally, Politically</hi> and <hi>Theologically,.</hi> The <hi>Rules</hi> of this <hi>Aſtrological Art</hi> (whereby to make Right Prognoſtications) muſt be acknowledged to be Obſcure and Doubtful to Inſtance in that one Aſtrological Axiom [<hi>That the Prognoſticks of</hi> Comets <hi>do depend all upon</hi> Mars <hi>and</hi> Mercury.] T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s is hard to be Demonſtrated, for none can prove what is the Influence of this or that Star in Hea<g ref="char:EOLhyphen"/>ven, as they may the Operation of <hi>Rhubarb</hi> or other Druggs on Earth; Yet <hi>Ptolomy</hi> (with others) make this Maxime (aforeſaid) thus far probable, ſaying, The Effects of <hi>Comets</hi> (which are rarely Good, but moſtly Evil) are of two ſorts, 1. Such things as are Savage, Bloody, Mortiferous, &amp;c. (portended by them) be aſcri<g ref="char:EOLhyphen"/>bed to <hi>Mars,</hi> and other things that are Inconſtant, Moveable and Uncertain, be aſcribed to <hi>Mercury.</hi> The Aſſertion here may be <hi>true,</hi> though the Application be <hi>falſe;</hi> for <hi>Aſtrologorum Decreta non ſunt praetoria;</hi> their Rules are not Infallible, yet Examples have more perſpicuity and certainty in them, I ſhall only give the two laſt and lateſt Exemplifications of <hi>Comets,</hi> the one in 1664, and the other in 1677. That in 64 was a forerunner of moſt Dreadful Diſpenſations, as the <hi>Sweeping peſtilence</hi> in 65 and the <hi>Swallowing fire</hi> in 66. The former falls fowl upon Perſons, the latter up<g ref="char:EOLhyphen"/>on
+<pb n="6" facs="tcp:34862:4"/>Habitations. The laſt in 1677. was a forerunner of the moſt Damnable Plot (yea a Complication of Plots) that ever Hell in<g ref="char:EOLhyphen"/>vented: Now God hath lighted up another Torch to give us a new Warning, that being forewarned we might be forearmed alſo, eſ<g ref="char:EOLhyphen"/>pecially with thoſe Arms of the Church, to wit, <hi>prayers</hi> and <hi>Tears</hi> (our <hi>Deſperate Malady</hi> hath not yet met with an <hi>Effectual Remedy</hi>) leſt thoſe Matchleſs Miſchiefs which are Imminent over us may not alſo be Incumbent on us. There is certainly ſomething more than ordinary God hath upon the Wheel, to lighten up ſuch a Blaze as this in the very depth of Winter, which is a time Diame<g ref="char:EOLhyphen"/>trically contrary to the very Nature of <hi>Comets,</hi> for Cold and Moiſt Weather is altogether unapt to produce thoſe Hot and Dry Vapours whereof a <hi>Comit</hi> conſiſteth. A Winter <hi>Comet</hi> is therefore like Win<g ref="char:EOLhyphen"/>ter <hi>Thunder,</hi> which is commonly call'd the <hi>Worlds Wonder:</hi> The proper time of engendring thoſe <hi>Meteors</hi> is <hi>Antumn,</hi> for in <hi>Spring<g ref="char:EOLhyphen"/>time</hi> there is ſuppoſed to be too much Moiſture and too little Heat to congregate thoſe Vapours, and in <hi>Summer-time</hi> there is ſo much Heat as plainly Segregate and Diſperſes thoſe Exhalations, but <hi>Winter-time</hi> is wholly oppoſite to their exiſtency, and quite con<g ref="char:EOLhyphen"/>trary to the conſtituting of them: Therefore this <hi>Extraordinary</hi> and <hi>preternatural ſign</hi> muſt needs ſignifie ſome <hi>Extraordinary</hi> and <hi>ſupernatural thing,</hi> even ſome Sweeping, Swinging or Scourging, yea ſome Cutting or Killing Diſpenſation, for the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or Ap<g ref="char:EOLhyphen"/>parition Extraordinary (which I ſaw with my own Eyes) had a threefold Reſemblance, 1. Of a <hi>Broom,</hi> 2. Of a <hi>Rod,</hi> 3. Of a <hi>Sword,</hi> 1. Of a large <hi>Broom,</hi> or <hi>Beſom,</hi> yet Dreadfull to behold by its ſparkling Aſpect, as if God were coming to Sweep <hi>Babylon</hi> with his dreadful <hi>Beſom of Deſtruction,</hi> as he hath promiſed, <hi>Iſa.</hi> 14, 22, 23. 'Tis true, God hath his [<hi>Scopas purgatorias,</hi> as well as <hi>perdi<g ref="char:EOLhyphen"/>to<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ias;</hi>] his <hi>Bruſhing,</hi> as well as <hi>Cruſhing,</hi> Beſoms. The former is for <hi>Sion,</hi> which God Bruſhes only for its <hi>Ornament,</hi> the latter is for <hi>Babylon,</hi> which God Cruſhes alſo for its <hi>Overthrow.</hi> God grant this <hi>
+                  <g ref="char:V">Ʋ</g>nclean Spirit</hi> of <hi>Babylon</hi> may be Swept out of our Land, <hi>Zach.</hi> 13.2. Even by a Parliamentary Beſom. 2. Of a long and <hi>fiery Rod,</hi> wherewith God may Swinge or Scourge the Inhabitants of the Earth a God may indeed Chaſtize <hi>Sion</hi> with <hi>Rods</hi> (gently and fa<g ref="char:EOLhyphen"/>vourably as a Father his Children, not to break their Bones, but
+<pb n="7" facs="tcp:34862:4" rendition="simple:additions"/>their Stomachs,) but God will Scourge <hi>Babylon</hi> with Scorpions, as 1 <hi>King.</hi> 12.11. He will break her with his <hi>Rod of Iron, Pſal.</hi> 2.9. like a Potters Veſſel, that can never be patcht together again: She ſhall feel the weight of God's mighty hand upon her, to Cruſh her to pieces, and to Grind her to Powder. 3. Of a <hi>prodigious flaming Sword,</hi> poſſibly not unlike that which <hi>God placed at the Garden of</hi> Eden, <hi>turning every way to keep the Gate thereof, Gen.</hi> 3.24. There the [Cheru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>] or Angel had [Lahat Chereb] a Flaming Sword, a great Elegancy in the Hebrew, and a Material Sword made of Steel; if brandiſht. will Dart out bright and dazling flames, according to that of <hi>Vorgils Aemad.</hi> 8. <hi>[Ipſem Terribilem flammaſque Vomentem]</hi> God bleſs us from this Material and Bran<g ref="char:EOLhyphen"/>diſht flame Vomiting or Glittering Sword, <hi>Ezek.</hi> 21, 9, 10, 14, 28. God may call for ſuch a Sword. <hi>Ezek.</hi> 38, 21. <hi>Levit.</hi> 26.25. If we give no better Audience and Obedience (than we have done) to the Sword of the Spirit, which is the Word of God, <hi>Eph.</hi> 6.17. as we have ſmarted under the Sword of the Angel, which is the Pe<g ref="char:EOLhyphen"/>ſtilence, 1 <hi>Chron</hi> 21.16.27. So God may bring upon us the Sword of the Enemy, whoſe Mercies are Cruelties. Oh God forbid that he ſhould Hiſs for the Flies of <hi>Egypt</hi> to bite us, or the See of <hi>Baby<g ref="char:EOLhyphen"/>lan</hi> (which is worſe) to ſting us, <hi>Iſa.</hi> 7.18. The Star (it ſelf) that ſhouteth forth this flaming Sword, I have not beheld, it be<g ref="char:EOLhyphen"/>ing as yet hid in the Sun beams, going down a little after the Sun, a little before the New Moon, and a little before Fiery <hi>Mars,</hi> be<g ref="char:EOLhyphen"/>ing not far from all theſe three in the Horizon, nigh to <hi>Aquila</hi> and to the <hi>Milken Allyc;</hi> All which would afford over curious and too critical Speculations, according to the Rules of Aſtrological Art, which I therefore omit. Though <hi>Comets</hi> (in themſelves ſimply conſiderate, or in their Houſes wherein they are ſeen) do not make future Events uncontroulably legible, yet when they are placed in Conjunction with the Sacred Scripture, they are not without their proper Inſtruction, but foretell ſingular things, pro<g ref="char:EOLhyphen"/>vided the word of God (who is the Creator of <hi>Comets</hi>) be the Rule of that Interp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etation. Though we Chriſtians ſhould not be afraid of the ſign of Heaven, as the Blind Heathen were, <hi>Jer.</hi> 10.2. Yet may we not altogether deſpiſe thoſe Divine Monitors and footſteps of Providence (though obſcure) ſeeing 'tis God's Method (fre<g ref="char:EOLhyphen"/>quently
+<pb n="8" facs="tcp:34862:5"/>Recorded in Hiſtory) that when he is about to puniſh a City or Nation, he is wont to give them warning thereof firſt by ſome previous Prodigies, and to hang out ſome Conſpicuous ſigns of Divine Diſpleaſure in the Air, to be beheld of all Men: And though <hi>Comets</hi> (for the moſt part) are loud Preachers from Heaven (which Popiſh Prelates cannot ſilence) of Gods wrath for Mens ſins, yet may they publiſh Joy to ſome, as well as ſorrow to others, for the Setting of one may be the Riſing of another; the Falling of Old Favourites may be the Riſe of New ones; as <hi>Haman</hi>'s fall was <hi>Mordecai</hi>'s riſe. Thus the <hi>Tiburtine</hi> Sybel Interpre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed that <hi>Comet</hi> (of a vaſt bigneſs) that appeared at Chriſt's Birth, ſaying <hi>[Hic puer major te eſt, &amp;c.]</hi> This Child that is now born is greater than thee. O <hi>Roman</hi> Emperour, and he comes to ſet up a Kingdom that ſhall deſtroy the <hi>Roman</hi> Kingdom. Might we have the ſame li<g ref="char:EOLhyphen"/>berty to ſuppoſe this ſtrange Star to be an Angel, as ſome do that in <hi>Mat.</hi> 2.2, 9, 10. Then hath He a drawn flaming Sword in his hand Ready to deſtroy our <hi>Jeruſalem,</hi> as that Angel had, 1 <hi>Chron.</hi> 21.16. Oh pray, pray, pray that God may repent him of that Evil, and ſay to the Angel, 'Tis enough, ſtay thy hand and put up thy Sword into its ſheath, <hi>v.</hi> 97. and 2 <hi>Sam.</hi> 24.16. but ſuppoſe it ſuch an Angel as ſtood in <hi>Balaam's</hi> perverſe way with a drawn Sword in his hand, <hi>Numb.</hi> 22.23. or rather that Angel of the Co<g ref="char:EOLhyphen"/>venant, out of whoſe mouth cometh a ſharp Sword, <hi>Rev.</hi> 19.15, 21. Oh pray, pray, that this Sword may ſlay not only the grand <hi>Balaam</hi> of <hi>Rome,</hi> but even <hi>Babylon</hi> too, and all her proud Helpers<g ref="char:punc">▪</g> as he hath there both Prophecyed and Promiſed: This is the Hear<g ref="char:EOLhyphen"/>ty Prayer of <hi>C. N.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Wilkins,</hi> and <hi>J. Sampſon,</hi> 1680.</p>
+         </div>
+         <div n="2" type="part">
+            <pb n="9" facs="tcp:34862:5" rendition="simple:additions"/>
+            <head>A Second SHEET, further Blazoning upon the Blazing-ſtar.</head>
+            <head type="sub">With a Chronology of COMETS for the laſt 400 years.</head>
+            <p>HAving ſpoken to the <hi>Products, Form, Colour, Motion</hi> and <hi>Signification</hi> of Blazing-ſtars, in the firſt Sheet: A further Account of the Prognoſticks of <hi>Comets</hi> in General, and of this preſent COMET in particular (which the firſt Sheet could not contain) I inſert and ſend forth in this: The General Prognoſticks of COMETS (according to the beſt Rules of Aſtrology) are deduced from an Ancient and Receiv'd Tri<g ref="char:EOLhyphen"/>ſtich or 3 Latin Verſes.</p>
+            <q>
+               <l>Octo Comet a Mala haec fulgendo per Aethera Signat</l>
+               <l>Ventus, Sterilitas, Aq<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a, Peſtis praedominantur</l>
+               <l>Rixa, Tr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mor, Moritur Dux, F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Mutatio Regni.</l>
+            </q>
+            <p>This plain, yet pithy Poetry doth (in our native Language) ſignify, That Comets Blazing in the Air doth portend 8 ſeveral Miſchiefs, as the Predominancy, 1. Of Storms and Tempeſts. 2. Of Drought and Dearth. 3. Of great Floods and Inundations. 4. Of Plague and Peſtilence. 5. Of Troubleſome Fears and Jea<g ref="char:EOLhyphen"/>louſies. 6. Of Quarrels and Contentions 7. Of the Death of great Captains, 8. Of Alterations in States and Kingdoms. Thoſe Prognoſtications in general are not altogether improba<g ref="char:EOLhyphen"/>ble, if conſidered either, 1. <hi>Phyſically, 2. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> or 3 <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lo<g ref="char:EOLhyphen"/>gically,</hi> by a Judicious mind: 1. <hi>Phyſically</hi> conſidered, ſo <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omets</hi> (probably) are not only natural <hi>Si<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> but alſo natural <hi>Cauſes</hi> moſtly of <hi>much Evil,</hi> through ſometimes they may be alſo of <hi>much G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>..</hi> 'Tis a Maxim in Phi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſophy, That natural Cauſes
+<pb n="10" facs="tcp:34862:6"/>muſt produce the like natural Effects: now it may be rational<g ref="char:EOLhyphen"/>ly argued, That <hi>Comets</hi> are Natural Cauſe (as well as Signs) 1. Of <hi>Drought, Dearth, Plague,</hi> &amp;c. 1. Becauſe without a great Heat, a <hi>Comet</hi> cannot be incorporated, and much moiſture muſt of neceſſity be conſumed by its flames when once it is ſired: This, as the Cauſe, produceth <hi>Drought</hi> as its effect, and <hi>Drought</hi> brings forth <hi>Dearth,</hi> 2. Becauſe the I atheſs (and ſo by conſe<g ref="char:EOLhyphen"/>quence the Fertility or Fruitfulneſs) of the Earth is exhaled, not only to the compounding of the Comet (whereof it is moſt<g ref="char:EOLhyphen"/>ly conſtituted, as in the firſt Sheet) but alſo exhauſted by the continued, Hames of the long burning Comet ſo near to it, as the Region of the Air is; the follows the <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>agu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> as another <hi>Effect</hi> of <hi>Drought</hi> and <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>) all thoſe Three having a mutual conne<g ref="char:EOLhyphen"/>ction each with the other and producing one another. 3. Be<g ref="char:EOLhyphen"/>cauſe ſo many l<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and dry Vapours and Exhalations (as muſt make up the mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntanous maſs of a Comet) come to be ſired and ſo diſperſed hither and t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ther in the Upper Region<g ref="char:punc">▪</g> they cannot bat corrupt the Air whereby the Bodies of men and beaſts are infected: this brings peſtilential Diſeaſes. <hi>Secondly, Come's</hi> in like manner do not only naturally <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but alſo <hi>pro<g ref="char:EOLhyphen"/>duce</hi> hor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ible Tempe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. dread<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Earth <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>becauſe</hi> in ſuch a Maſſy multitude of Exhalations there muſt be <hi>much</hi> that cannot take <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire and be wholy conſum'd (as we ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in <hi>ingne<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uli<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> in out Kitching hire) ſome fewel will ſhuffle out, and eſ<g ref="char:EOLhyphen"/>cape burning, and ſo it may happen <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> fire) this part therefore that remains unconſum'd, is the engendring Matter of moſt boiſterous Winds, and of moſt terrible Earthquakes, <hi>&amp;c.</hi> for there is the ſame matter for cauſing the Bluſtering Wind a<g ref="char:EOLhyphen"/>bove the Earth. that there is for a dreadful Earthquake with<g ref="char:EOLhyphen"/>in it: <hi>becauſe</hi> when thoſe remaining Vapours of the <hi>C<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> do flutter abroad in the Air, they do engender Storms, but when thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umes do fall into the Caverns of the Earth, and come to be pent up therein<g ref="char:punc">▪</g> by an <hi>An<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>periſtaſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> both increaſed and inra<g ref="char:EOLhyphen"/>ged they do naturally endeavour an Inlargement, which, they do with that mighty Violence, as ſhaketh the Earth: <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ow ſeeing thoſe Phyſical preſages ſeem ſo probable, I cannot <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Reaſon enough to render the <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cal</hi> and <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> preſa<g ref="char:EOLhyphen"/>ges
+<pb n="11" facs="tcp:34862:6"/>(which are the 2d and 3d) leſs probable than the firſt: e<g ref="char:EOLhyphen"/>ſpecially conſidering how the Manners of mens minds do fol<g ref="char:EOLhyphen"/>low moſtly the Temperament of their Bodies<g ref="char:punc">▪</g> As that Adage in Greek (poſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) <hi>after Dearth comes the Plague<g ref="char:punc">▪</g>
+               </hi> is Rational, for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood corrupted muſt fill mens bodies with many malignant Humours, So <g ref="char:punc">▪</g>tis no leſs rational to affirm, That when thoſe Vicious fumes of Comets are conveyed into the Blood and Spirits of Mens Bodies, and ſo infect the with much Choler and Melancholy, thence muſt necessarily ariſe much <hi>Envy, Hatred, ſharp Conteſts,</hi> and Land deſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roying <hi>Wars.</hi> 'Tis not at all diſſonant from Truth, That thoſe hot and dry Vapour diſper<g ref="char:EOLhyphen"/>ſed by the Comets combuſtion ſhould ſtir up Anger in Chole<g ref="char:EOLhyphen"/>rick Conſtitutions. And out of <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> ariſeth <hi>Quarrels,</hi> out of <hi>Quarrels, Conqueſts,</hi> and out of <hi>Conqueſts</hi> ſtrange <hi>Changes</hi> both in Church and State<g ref="char:punc">▪</g> And I ſee not, but that <hi>Comets</hi> may portend the Death of <hi>Great n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> for their Intemperance, Delicious fare, (of all ſorts) and Exorbitancies in Pleaſures, Night-watchings, <hi>&amp;c.</hi> (wherewith they do commonly indulge themſelves above all men) muſt needs expoſe them moſt to contra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the worſt of Diſtempers. The more Luxuriouſly any men live, the ſooner they muſt be infected with the Contagion of Comets<g ref="char:punc">▪</g> Yea <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>artho<g ref="char:EOLhyphen"/>lme</hi> boldly Aſſerteth, That Comets are Signs ſent on purpoſe to premoniſh Princes of their Ruin without Repentance and Refor<g ref="char:EOLhyphen"/>mation.</p>
+            <p>The Probability of thoſe Prognoſtications by Comets may be beſt Demonſtrated by an Induction of Inſtances and Examples drawn out of Chronological Hiſtory of <hi>Comets:</hi> And to go no higher therein than thoſe laſt foregoing Centuries near to our own Times; I find moſt marvelous Teſtimonies there recor<g ref="char:EOLhyphen"/>ded,</p>
+            <p>As, (I.) in the year 1347<g ref="char:punc">▪</g> a Comet appeared not far from the Bull Ey; After which follow'd ſuch a dreadful ſickneſs, that ra<g ref="char:EOLhyphen"/>ged all the World over, and continued forty years together: Inſomuch, that (as Authors ſay) it deſtroy'd the Third part of men in <hi>Europe.</hi>
+            </p>
+            <p n="2">(II.) In the year 1363. a <hi>Blazing ſtar</hi> broke forth, and brandi<g ref="char:EOLhyphen"/>ſhed its bright Beam's all-abroad for 3 Months together: Im<g ref="char:EOLhyphen"/>mediately
+<pb n="12" facs="tcp:34862:7"/>after which, Ariſeth that <hi>burning</hi> and <hi>ſhining Light</hi> Dr. <hi>John Wickliſ,</hi> who was as an Angel ſent from Heaven for a marvelous Reformation on earth. So that <hi>Comets,</hi> as is afore<g ref="char:EOLhyphen"/>ſaid) portend <hi>good</hi> as well as <hi>evil:</hi> for the Conſumption of ſuch a multitude of hurtful Vapours as paſſeth away in the Expira<g ref="char:EOLhyphen"/>tion of a <hi>Comet,</hi> why may it not (if only it be conſidered <hi>phyſi<g ref="char:EOLhyphen"/>cally</hi> and <hi>naturally</hi>) have <hi>good</hi> Effects as well as <hi>evils?</hi> eſpecially, if it be conſidered <hi>politically</hi> and <hi>theologically;</hi> thus, no <hi>Comet</hi> can be ſo obnoxious, but as it portends Sorrow to ſome, ſo it doth Joy to others, as this did, which was a <hi>Cordolium</hi> to the Romaniſts, but a <hi>Cordial</hi> to thoſe of the Reformed Religion.</p>
+            <p n="3">(III.) In the Year 1375. There appeared another frightful <hi>Comet,</hi> which had ſuch infinite. Swarms of Locuſts following it, as almoſt deſtroy'd the Kingdom of <hi>France,</hi> in all the Fruites thereof, as if God had ſent one of the Ten Plagues of <hi>Aegypt</hi> upon it, <hi>Exod.</hi> 10.14. his formidable Army, <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el</hi> 2.4.10.11. <hi>Locust</hi> hath its name in Hebrew from <hi>Multitude,</hi> wherewith the very Sun is darken'd as with a mighty Cloud, and the Green things of the Earth ſo devoured, that the <hi>Aegyptians</hi> make the <hi>Docuſt</hi> their Hieroglyphick for <hi>Famine,</hi> becauſe of both their <hi>numeroſity</hi> and <hi>Voracity.</hi> And as the <hi>Locuſts</hi> of <hi>Aegypt</hi> were all <hi>drowned in the Rod Sea,</hi> as well as Reſtrain'd from <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhen;</hi> So thoſe <hi>Locuſts</hi> aforeſaid. had the <hi>Britiſh</hi> Sea, not only (through Divine Grace) for their <hi>Boundary</hi> beyond which they could not paſs) but alſo for their <hi>Sepulchre,</hi> wherein they were (with a moſt <hi>Hideous ſtorm</hi>) <hi>all driven,</hi> and wherein alſo they were (with a moſt horrible noiſe) all drowned.</p>
+            <p n="4">(IV.) In the year 1390<g ref="char:punc">▪</g> Another <hi>Comet</hi> Blazeth out, after which did follow a moſt furious Peſtilence in this our Nothern<g ref="char:punc">▪</g> Region, ſo exceedingly outragious it was<g ref="char:punc">▪</g> that in a very little ſpace of time a Thouſand and ſome Hundreds dyed of the <hi>Plague</hi> in that one City of <hi>York.</hi>
+            </p>
+            <p n="5">(V.) In the year 1400.</p>
+            <p n="6">(VI.) In the year 1401.</p>
+            <p n="7">(VII.) In the year 1402.</p>
+            <p n="8">(VIII.) And in the year 1403. All thoſe ſeveral <hi>years,</hi> (Im<g ref="char:EOLhyphen"/>mediatly Succeeding one another) produced ſeveral <hi>Comet</hi> Suc<g ref="char:EOLhyphen"/>ceſſively,
+<pb n="13" facs="tcp:34862:7"/>and portending great things, for at that time, <hi>Tam<g ref="char:EOLhyphen"/>berlan</hi> deſtroy'd the Turkiſh Empire, and <hi>John Hus,</hi> (with <hi>Je<g ref="char:EOLhyphen"/>rom</hi> of <hi>Prage</hi>) began their famous Reformation in <hi>Bobemia,</hi> from whence many Tumults aroſe, and afterwards brave <hi>Ziſca</hi> waged War ſucceſsfully againſt thoſe who call themſelves CATHO<g ref="char:EOLhyphen"/>LICKS, whereas CACOLICKS is their more proper Title:</p>
+            <p>Then (IX.) In the year [1458.] Another <hi>Comet</hi> broke forth in the ſign of the <hi>Bull.</hi> After which that Fat <hi>Bull</hi> of <hi>Baſhan</hi> (the Pope) dyed, and <hi>A'phonſus</hi> King of <hi>Arragon,</hi> and in the follow<g ref="char:EOLhyphen"/>ing year <hi>James</hi> King of <hi>Scotland.</hi>
+            </p>
+            <p n="10">(X.) In the year [1472] Another <hi>Blazing Star</hi> appeared in the ſign call'd <hi>Libra,</hi> which was firſt of a ſlow motion until it came to <hi>Arcturus,</hi> and then it Ran ſwiftly through the whole Hemiſphere between the Poles of the Zodiack and the Aequi<g ref="char:EOLhyphen"/>coctial. And laſtly when it Blaz'd about from the thirteenth of <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nuary<g ref="char:punc">▪</g>
+               </hi> to the laſt of <hi>February,</hi> it Blaz'd out its laſt in <hi>Aries,</hi> as if that Battering <hi>Ram</hi> had batterd it into nothing; After which many Princes and great men (too long to Relate) dyed, and ſo to be weighed in Heavens <hi>Libra</hi> and <hi>Ballance,</hi> wherein this <hi>Comet</hi> Appeared.</p>
+            <p>Again, (XI.) in the year [1477.] A <hi>Saturnine Comet</hi> (of a dusky leaden Complexion) appeared; which was attended with ſo great a Drought, that not only the <hi>corn</hi> in the Fields, but the <hi>Trees</hi> in the Woods were plainly Burnt and Withred, yea many deep and broad <hi>Rivers,</hi> were wholly Dryed up, as if the Flames of that <hi>Comet,</hi> had been another <hi>Behemoth</hi> to Drink whole Rivers dry. Likewiſe a moſt noiſom Plague followed this, and the Death of many Princes.</p>
+            <p>Alſo, (XII.) In the year 1491.</p>
+            <p>And XIII.) in the year 1492. Two <hi>Comets</hi> appeared, both which were forerunners of an horrible <hi>Murrain</hi> of Cattle, and of a fatal Mortality of many Princes.</p>
+            <p n="14">(XIV.) In the year 1500. A <hi>comet</hi> having a Northern La<g ref="char:EOLhyphen"/>titude, blazed forth in <hi>April,</hi> under the ſign of <hi>Capr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>corn</hi> for 15 days, then followed the Famine and Peſtilence in <hi>Germany,</hi> then Pope <hi>Paul</hi> was puſh'd down (as with the Horns of <hi>Capricorn,</hi>
+               <pb n="14" facs="tcp:34862:8"/>where the Comet appeared) from his <hi>Inf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llible Chair,</hi> to his <hi>more Infallible Grave,</hi> then dyed alſo the King of <hi>Swedeland,</hi> and the Queen of <hi>Bohemia,</hi> with many other Princes.</p>
+            <p n="15">XV. In the year 1522. Another <hi>Comet</hi> of a Saturnine co<g ref="char:EOLhyphen"/>lour (as before) broke forth, which uſhered in a moſt dreadful Plague, and that Sweating Sickneſs which was moſt peculiar to Engliſh Bodies, dogging them (as it were) into all Lands.</p>
+            <p>Again, XVI. In the year 1533. A mighty <hi>Comet</hi> appeared in <hi>July</hi> and <hi>Auguſt,</hi> on the outſide of the <hi>Zodia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,</hi> nigh to the Conſtellation called P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, and Streaming it<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tail towards the VVeſt; After which follow'd the <hi>Plague, Earth-Q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake,</hi> and that Monſtrous <hi>Mut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny</hi> at <hi>Munſter</hi> in <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmany,</hi> yea and then did our <hi>Henry</hi> the VIII. Unhorſe the Pope here, by throwing out the Popes Supremacy in <hi>England.</hi>
+            </p>
+            <p n="17">(XVII.) In the year 1556. A pale <hi>Comet</hi> appeared for two Months, of a moſt ſwift Motion, directing its Courſe from <hi>Spi<g ref="char:EOLhyphen"/>ca Virgi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is</hi> to <hi>Bootes.</hi> from thence again to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> and to <hi>Saturn,</hi> (which Planet was then in <hi>Ari<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi>) and then diſappeared: After which came the <hi>Plague, Famine, Mu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ain,</hi> &amp;c. but eſpecially thoſe Bloody <hi>Marian</hi> days wherein ſo many Holy Martyrs were com<g ref="char:EOLhyphen"/>mitted to the Mercy of the mercileſs Fire</p>
+            <p n="18">(XVIII.) In the year 1558. Another pale Comet aroſe, which foreran the Fall of ſome Kings and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ueens, and ſome Princes of all Ranks.</p>
+            <p n="19">(XIX) In the year 1560. Appeared another <hi>Comet</hi> in <hi>De<g ref="char:EOLhyphen"/>cember</hi> which foreran a moſt fatal <hi>Plague</hi> here in <hi>L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>don,</hi> the great (and unheard o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) Froſt, and many Monſtrous Births in ſeveral Counties of <hi>England,</hi> (with ſundry other <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rodigies) followed after.</p>
+            <p n="20">XX. In the year 1572. A new Star then appeared (menti<g ref="char:EOLhyphen"/>on'd in the firſt ſheet.) After which were thoſe Bloody Butche<g ref="char:EOLhyphen"/>ries at that Treacherous Royal Marringe at <hi>Paris,</hi> whereat more <hi>Blood</hi> than <hi>Wine</hi> was powred out and Dr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nk. To Omit (as I have done ſundry for Brevities ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e) thoſe three new Stars which were ſeen in the years 1602. 160<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. and 1607. after all which marvelous Mutations and ſtrange Revolutions happened in the World, as Chronological Hiſtories do abundantly de<g ref="char:EOLhyphen"/>clare.</p>
+            <p>
+               <pb n="15" facs="tcp:34862:8"/>I paſs on to the year 1618. VVherein the (XXI.) <hi>Comet</hi> bla<g ref="char:EOLhyphen"/>zed forth (even in the VVinter Seaſon) with a very long Tail or Train: After which our Queen <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nn,</hi> and the Emperour of <hi>Germany</hi> departed the VVorld.</p>
+            <p>Then in the year 1652. The (XXII.) <hi>Com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> (of a <hi>Saturnine</hi> and <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nar</hi> colour) appeared in <hi>Gem<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> near to <hi>Or<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Shield,</hi> mo<g ref="char:EOLhyphen"/>ving (beſides its Diurnal Revolution,) with an oblique motion towards the <hi>Pl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> and paſſing by the Head of <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> (that fatal Star,) It came laſtly to <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s</hi> where it was almoſt Verti<g ref="char:EOLhyphen"/>cal to <hi>England,</hi>) and there it Vaniſhed: Its Tail tended towards the North-Eaſt, and it Appeared not above ten or twelve Days in <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cember,</hi> and then Diſappeared. Now the Products of this Blazing Star, are yet freſh in mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t mens Memories, in what Mo<g ref="char:EOLhyphen"/>tions and Commotions, yea ſtrange Mutations of Monarchy in<g ref="char:EOLhyphen"/>to Ariſtocracy and of that into Democracy and then into Mo<g ref="char:EOLhyphen"/>narchy again, ſo that the Land ſeemed to Ring Changes and all were turned <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pſi e d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> both in Church and State.</p>
+            <p>In the year 166<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. the (XXIII.) <hi>Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et</hi> of a Saturnine dusky Complexion) was ſeen in the beginning of <hi>Dec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mber,</hi> &amp;c. And the ſad effects thereof (in the <hi>Plague</hi> and <hi>Fire</hi> of <hi>London</hi>) are ſtill freſher in the Memories of moſt men.</p>
+            <p>Then in the year 1677. Another <hi>Comet</hi> appeared about <hi>A<g ref="char:EOLhyphen"/>pril,</hi> the effects whereof were not only VVar at Sea and Land, unheard of Hail-ſtones, <hi>&amp;c.</hi> but alſo the Damnable opiſh Plot from which we cannot yet be ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, no not by a Parliamentary Power.</p>
+            <p>Now in this year 1680. Another (the XXV.) <hi>Comet</hi> appears in <hi>December</hi> alſo (and I ſee not why this ſhould not have ſuch ſe<g ref="char:EOLhyphen"/>vere Significancies (which ought juſtly to be ſeared) as well as all thoſe afore aid in this Compendious Chronology of Comets, ſeeing this is one of thoſe Methods and VVays, whereby <hi>God talketh with M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> not only by the Tongues of his Prophets and Apoſtles, but alſo by the very Elements diſpoſed into Divers forms, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> muſt hear God in h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rk<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as well <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n his Word.</hi>
+            </p>
+            <p>The beſt Proſpect ſeveral Dusky Evenings would allow me to take to this COMET, not a tittle obſcu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with the Splen<g ref="char:EOLhyphen"/>dour of the <hi>M<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> was this, according to my Aſtrolabe, this Star
+<pb n="16" facs="tcp:34862:9"/>made its fiſt appearance to me in the ſign <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſces,</hi> aſcending our Horizon from the Southern Line betwixt <hi>Peg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus,</hi> and the Sou<g ref="char:EOLhyphen"/>thern Triangle to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndromeda,</hi> then it advanced with its exceed<g ref="char:EOLhyphen"/>ing long Train until it got beyond <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>duſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Head,</hi> which is re<g ref="char:EOLhyphen"/>ckoned (by all Authors) an unluckly Conſtellation. The ſtreamer of this Star (I have obſerved) hath ſtretched out it ſelf from the loweſt Line of the Hemiſphere at the very bottom of the Aequinoctial Colure (below <hi>Piſce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>) through the Tropick of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ancer,</hi> through part of <hi>Perſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> between <hi>Au<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iga</hi> and <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pella</hi> even to the Solſtitial Colure (which is one fu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l quarter of the Coeleſtial Globe) until it had a Direct Parallel Line with the North-Pole and the upper end of its Tayl or Train: This therefore, having a greater both Latitude and Longitude (in its Rays) then any I ever ſaw or lately read off, muſt needs be the greater Prodigy, and ſo may produce more prodigious Effects, which may (poſſibly) be diſtinctly and particularly ſpoke to in a third ſheet, as wanting Room in this ſecond. In the mean time, How ought this Out-Cry from Heaven <hi>[of Fire, Fir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,]</hi> in this aſtoniſhing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lame, Rowze us up out of our ſlumber of ſecurity, that we be not ſuch ſottiſh ſenſua iſts as to take no notice of Gods great Works, but grunt at them <hi>(like Swine)</hi> and go our Ways: 'Tis the <hi>Bru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſh Man that knoweth them No<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Pſal. 92.6. Such Brutiſh Spirits as <hi>Regard not the Works of the Lord, nor the Operations of his Hands, the Lord will pluck them down and not build them up,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſal. 28.5. Like rotten Ruinous Houſes ne<g ref="char:EOLunhyphen"/>ver more to be Rebuilt or Repaired becauſe they <hi>Regard</hi> not the Works of Gods Hands, God will <hi>Reward th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m acc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rding to the Works of their H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds</hi> v. 4. <hi>Ducunt Volem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta No<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ent<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra<g ref="char:EOLhyphen"/>hunt</hi> ſaith, <hi>Se<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ea.</hi> The Vaſt Regions of the Air is as fowly In<g ref="char:EOLhyphen"/>fected with a ſtinking malignant Contagion at the extinguiſh<g ref="char:EOLhyphen"/>ing of a great Comet, as a large Room is with the ſtinking Snuff of a great Candle, when 'tis rudely Blown out. As <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el</hi> ſaid of his dreadful Dream, <hi>Dan.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9. <hi>God Almighty b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> (in this Nation Prince and People) <hi>from the D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reful conſequences of this Come<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and let th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m be to thoſe that Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord and are Ene<g ref="char:EOLhyphen"/>mies to Jeſus Chr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt.</hi>
+            </p>
+            <closer>
+               <signed>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pray, <hi>C. N.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="colophon">
+            <p>Publiſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by <hi>L. Curtiſs,</hi> on <hi>Ludgate-hill.</hi> 1681.</p>
+         </div>
+         <div n="3" type="part">
+            <pb n="17" facs="tcp:34862:9"/>
+            <head>A third Sheet, ſhewing a further and fuller Blazoning upon this particular BLAZING-STAR.</head>
+            <p>MY Method in this third Eſſay, ſhall be (firſt,) the <hi>explication</hi> of the grand concerns of this Comet, to wit, its <hi>Colour, Sci<g ref="char:EOLhyphen"/>tuation, Motion,</hi> &amp;c. (ſecondly,) the <hi>Application</hi> of its Portents and Significancys: Firſt, the <hi>Explication,</hi> this is done two ways, 1. By Aſtrological <hi>Precepts</hi> or Maxims, 2: By Aſtrolo<g ref="char:EOLunhyphen"/>gical <hi>Preſidents</hi> or <hi>Examples.</hi> (1.) The Apothegms or Rules (which they call Maxims) in Aſtrology, are 1, that there are Prognoſticks <hi>I di<g ref="char:EOLhyphen"/>omatick</hi> (which predict the natures and manners of Nations and Metra<g ref="char:EOLhyphen"/>politan Cities) and <hi>Symptomatick</hi> (which preſage the more than ordi<g ref="char:EOLhyphen"/>nary Accidents that befal Countreys and Cities, whether good or evil; the former of theſe two I omit, as not concerning our Comet ſo much as the latter doth: The 2d. Rule is, That Comets and other fiery Me<g ref="char:EOLhyphen"/>teors are always <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Significant,</hi> and never <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Inſignifi<g ref="char:EOLhyphen"/>cant.</hi> The 3d. Rule is, That Comets have the ſtrongeſt Influence upon thoſe Countries and Cities upon which they are moſt Vertical or over their heads in a direct Perpendicular line, and in whoſe Signs they are moſt conſpicuous. The 4th. Rule is, The Significancies of Comets are derived from their Colours, which is taken from the Dominion of the Planet in the generating of them, this [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] or proper Tem<g ref="char:EOLhyphen"/>perament of the praedominant Planet is eaſily diſcerned by the com<g ref="char:EOLhyphen"/>plexion or colour of the Comet: If it be red, it borrows that colour from <hi>Mars,</hi> which is predominant in its Generation: if dull and dusky, then 'tis <hi>Saturnine</hi> as before, and ſo of the reſt, and as they have the like <hi>Colour</hi> with this or that Planet, ſo they have the like <hi>Influence.</hi> The 5th Rule is, Comets have their Significations from the Signs of the Zodiack wherein they are ſcituated, as if they appear in the Watery Signs, they portend Famine and Plague, if in the Airy Signs, the follow furious Storms and Fractions or Factions; If in the Fiery Sign, then Fire and Sword ſticceed, <hi>&amp;c.</hi> The 6th. Rule is, the ſignificancy of Comets is drawn from their differing Poſitions to the Sun, for a Morning or Even<g ref="char:EOLhyphen"/>ing Comet portendeth the Death of ſome Prince, but the Eaſtern Comet preſageth a quicker accompliſhment and diſpatch of ſuch a Royal Death than doth a Weſtern one. The 7th. Rule is, Prognoſticks of Comets are further taken from their <hi>Motion:</hi> If the Comet be without motion, and be fixed in one point of the Heavens (as that over <hi>Jeruſalem</hi> was, a lit<g ref="char:EOLhyphen"/>tle before its Deſtruction) it denotes ſome long and laſting evil; if it be moveable from one Sign to another, 'tis an Indication of Commotions,
+<pb n="18" facs="tcp:34862:10"/>Wars, and (perhaps) of Civil Wars. If it move faſt and ſoon decay, 'tis a Sign Gods Wrath will come ſhortly and be ſhort though it be ſharp. The 8th. Rule is drawn from the magnitude and form of the Comet, as well as from its Duration, for the greater that a Comet is, and the longer that it continueth, the more horrible are its effects and indications; if alſo its form or figure be with a Tail or Train, then it (as with a finger) pointeth out thereby that <hi>Evil</hi> is denounced againſt thoſe Countries, eſ<g ref="char:EOLhyphen"/>pecially towards which its Bruſh or Tail is extended, and the longer that the Train is, the longer will that evil be upon them: The 9th. Rule is borrowed from the Celeſtial Houſes wherein the Comet appeareth, for Comets are moſt obnoxious to thoſe Countries over which they are ei<g ref="char:EOLhyphen"/>ther Vertical, or in whoſe Signs they are moſt ſeen: And to mention no more of thoſe Celeſtial Signs or Houſes (wherein this Comet is ſaid to appear in its Retrograde motion,) Aſtrological Rules place. 1. <hi>Norway, Bavaria, Fez,</hi> &amp;c. under <hi>Scorpio,</hi> in which Sign this Blazing-Star is ſaid to have its firſt riſe. 2. <hi>Spain, Hungary,</hi> &amp;c. under <hi>Sagittary.</hi> 3. <hi>Grece, Lithuania, Saxony,</hi> &amp;c. under <hi>Capricorn.</hi> 4. <hi>Tartary, Ruſſia, Swede<g ref="char:EOLhyphen"/>land,</hi> &amp;c. under <hi>Aquarius.</hi> 5. <hi>Portugal, Galitia, Normandy</hi> under <hi>Piſ<g ref="char:EOLhyphen"/>ces.</hi> 6. <hi>England, France, Germany</hi> under <hi>Aries:</hi> I mention no more but theſe 6 Houſes of Heaven (omitting the other 6,) becauſe Mathe<g ref="char:EOLhyphen"/>matick Profeſſors have obſerved this preſent Comet hath had ſome ſhort reſidence in all theſe 6 Celeſtial Signs or Houſes, firſt in <hi>Scorpio,</hi> and laſt in <hi>Aries,</hi> ſo that according to Aſtrological Rules) all thoſe Countries and Cities which are placed under thoſe 6 Signs aforenamed ſhall be af<g ref="char:EOLhyphen"/>fected and infected with the force and influence of this Blazing-Star, not only this and that Land, but even all thoſe Lands over which it appeared, having extender it ſelf over the greateſt part of <hi>Europe,</hi> as well as other parts of the World, and perhaps its effects may begin in thoſe Coun<g ref="char:EOLhyphen"/>tries over which its appearance (or rather exiſtence) began: while this Comet was in <hi>Scorpio,</hi> though it then did exiſt, yet could it not appear, being then hid in the Beams of the Sun, yet going down before the Sun, and ſhooting its Rays and Stream of Fire (as it were) againſt the Sun, which poſture of a Comet (ſtay Aſtrologers) doth always portend the Fall of great men, but this Comet having its Retrograde motion into, and ſome ſhort ſtay and ſcituation in thoſe 6 ſeveral diſtinct Signs (the Sun oven-running it, and leaving it every Night farther and farther be<g ref="char:EOLhyphen"/>hind it) muſt have likewiſe ſome ſeveral and diſtinct Effects and Progno<g ref="char:EOLhyphen"/>ſticks, for (according to the Rules of this Art) a Comet 1. in <hi>Scorpio</hi> Prognoſticateth Wars and Worldly Changes, Drought and Dearth, Rob<g ref="char:EOLhyphen"/>bery by Land, Piracy by Sea, Miſcarriage of Women with Child, <hi>&amp;c.</hi> 2. a Comet in <hi>Sagittary</hi> ſignifies Loſſes, Croſſes to Great men, great con<g ref="char:EOLhyphen"/>tentions about Civil and Sacred things, malignant Feavers, and much Mortality. 3. In <hi>Capricorn,</hi> it portends Murders, Maſſacres, Thefts, Plague and Famine, Death of Princes by Poyſon, all Deſpite againſt Religion and
+<pb n="19" facs="tcp:34862:10"/>the Religious. 4. In <hi>Aquarius,</hi> a Comet preſages long Wars, great Cru<g ref="char:EOLhyphen"/>elties, Terrible Thunders and Lightnings, Famine, Peſtilence, Rot and Murrain. 5. In <hi>Piſces,</hi> it foreſhews contention about Civil Rights, <hi>as Men,</hi> Diviſion about Sacred Truths <hi>as Chriſtians;</hi> unnatural Relations a<g ref="char:EOLhyphen"/>mong Superiors, Inferiours and Equals, uncivil and (it may be) civil Re<g ref="char:EOLhyphen"/>bellions, ſcarcity of Fiſh, and great loſſes both at Sea and Land, <hi>&amp;c.</hi> 6. A Comet in <hi>Aries</hi> foretelleth Diſeaſes in the Head natural, and diſcom<g ref="char:EOLhyphen"/>poſures in the head political (as this Sign is the <hi>Head</hi> of all the twelve Signs) as likewiſe the Death of thoſe that are <hi>Heads</hi> of Families of Cor<g ref="char:EOLhyphen"/>porations, of Cities, of Countries and of Kingdoms. Now this preſent Comet having had its Stage and Theatre in all thoſe 6 aforeſaid Signs, may poſſibly Prognoſticate all thoſe evils aforeſaid to befal ſome of thoſe Regions ſeated under all thoſe Signs which it hath run through betwixt its riſe in <hi>Scorpio,</hi> and its failure in <hi>Aries.</hi> According to my beſt Intelli<g ref="char:EOLhyphen"/>gence, this Comet took its fiſt Flame by the <hi>hot Beams</hi> of the <hi>Sun</hi> (be<g ref="char:EOLhyphen"/>fore it was gone out of the Sign <hi>Scorpio</hi>) wherewith it hard its Conjuncti<g ref="char:EOLhyphen"/>on, and wherein it had its abſconding (for ſome time from the Sight of men, and likewiſe it loſt its laſt Flame(according to my ſtrict Obſer<g ref="char:EOLhyphen"/>vation) by the <hi>cold Beams</hi> of the <hi>Moon,</hi> even the Half Moon, wherewith it met about the middle of this Month <hi>January:</hi> Foreign Letters do fully teſtify that this Comet waded out of the Sun-beams (wherein it firſt lay hid) much ſooner in other Countreys beyond Sea, than it did in our Land, ſo that it muſt have its <hi>Exiſtence</hi> (if not its <hi>Appearance</hi> in the Month of <hi>November,</hi> continuing all <hi>December</hi> until the 16 of <hi>January,</hi> the Time of its <hi>Diſappearance.</hi> This Comet (beſides its <hi>Diurnal moti<g ref="char:EOLhyphen"/>on,</hi> wherein the Sun (that race-running Champion) did daily over-run it) had its <hi>Retrograde motion,</hi> wherein it marcheth backward farther and farther on the Eaſt ſide from the Sun, and neerer to our <hi>Zenith,</hi> or point of the Heavens directly over our heads, before the attaining of which point it vaniſhed out of ſight; ſo that is this backward motion it fulfil<g ref="char:EOLhyphen"/>led a marvellous courſe, from nigh to <hi>Cor Scorpij</hi> (where it had its firſt being and beginning in this Northern Hemiſphere. From <hi>Scorpio</hi> this Comet advanceth almoſt all along the Aequinoctial Circle through the Solſtitial colure by the <hi>Milky way</hi> into <hi>Sagittary,</hi> and by <hi>Antiuous</hi> and the <hi>Dolphin</hi> into <hi>Capricorn,</hi> ſo by <hi>Cygnus, Aequulens</hi> and <hi>Pegaſus</hi> (ſtri<g ref="char:EOLhyphen"/>king through the Tropick of <hi>Cancer,</hi> it came into <hi>Aquarius,</hi> and ſo (croſſing the colure Aequinoctial) it paſſed into <hi>Piſces</hi> neer to the South<g ref="char:EOLhyphen"/>ern line, and from thence into <hi>Aries,</hi> in which 6th. Sign I laſt ſaw it, where this <hi>Aries,</hi> or (as the word ſignifies) the <hi>Battering Ram,</hi> did (as it were) batter down both the Star and its Blaze quite out of Sight. In<g ref="char:EOLhyphen"/>deed the long Blaze or Tail of this Comet extended it ſelf to many other Conſtellations (beſides theſe aforenamed,) as <hi>Aquila, Lyra, Cepheus, Andromeda,</hi> the <hi>Triangle, Caſſiopeia, Meduſa</hi>'s head, even to <hi>Auriga</hi> and <hi>Capella,</hi> as if it had been a Meſſenger ſent to viſit all the moſt fa<g ref="char:EOLhyphen"/>mous
+<pb n="20" facs="tcp:34862:11"/>Conſtellations in the full half part of the Northern Hemiſphere: The laſt appearance I had of it, was this, its Train (then weaning away) darted it ſelf forth betwixt <hi>Caſſiopeia</hi> and the <hi>Pleiades</hi> (or 7 Stars) fa<g ref="char:EOLhyphen"/>cing (as it were) the <hi>Bulls Eye</hi> and bright <hi>Jupiter</hi> himſelf (who was then in that Sign of the <hi>Bull</hi>) yea and that moſt Glorious Conſtellation (of all others) to wit, <hi>Orion,</hi> with both the Greater and the Leſſer <hi>Dog: Star.</hi>
+            </p>
+            <p>A more particular Deſcription both of the Star it ſelf, and of its Train ſeemeth neceſſary to the fuller <hi>Explication,</hi> before we can come to the <hi>Application</hi> of All, and 1, concerning the <hi>Star it ſelf,</hi> I do find it was a <hi>Phaenomenon</hi> found in various Complexions, which perhaps its ſe<g ref="char:EOLhyphen"/>veral Paralaxis or differing ſcituations might occaſion. The firſt Ac<g ref="char:EOLhyphen"/>count we had of it, was from the Mathematick Profeſſor at <hi>Hamburgh</hi> who ſaith he took his proſpect of it in his Tube, and there in ſaw the Comet (it ſelf) to be fiery and glowing like the flames of a Bakers Oven 2. Other Artiſts (that have viewed it by their Teleſcopes) ſay they ſaw it of a bright, ſplendid colour; as the former Aſpect was from <hi>Mars,</hi> and ſo it was a Martial Star (which it might well be, while it had the Tin<g ref="char:EOLhyphen"/>cture of the firſt Sign, wherein it firſt exiſted, for <hi>Cor Scorpij</hi> hath the ſame complexion with the Planet <hi>Mars,</hi> of a red and fiery colour) ſo this latter was from <hi>Jupiter,</hi> which made the Comet a Jovial Star, por<g ref="char:EOLhyphen"/>tending Jovial or Joyful things, as the former doth War and Blood-ſhed, The 3d. Accompt we have from Foreign Mathematicians is, that at its firſt appearance it had a mixture of divers colours, which it borrow'd from <hi>Mercury,</hi> ſo became a Mercurial Star, and betokening a mixture of differing Diſpenſations, of good as well as of evil; but the 4th. and moſt univerſal Proſpect of it was, that it hath been of a dusky and lead<g ref="char:EOLhyphen"/>en complexion from its firſt appearance to its laſt diſappearance, this colour it borrows from <hi>Saturn</hi> (as is ſaid before) and makes it a Satur<g ref="char:EOLhyphen"/>nine Star, of the moſt ſullen influence of all the three other Planets a<g ref="char:EOLhyphen"/>forenamed; ſo that no leſs than 4 Planets are (as it were) called in to the compoſition of this Comet, and though ſome doubt may be made concerning the 3 former, to wit, <hi>Mars, Jupiter</hi> and <hi>Mercury,</hi> yet none can queſtion this laſt the 4th. of them, inaſmuch as many Millions of eye-witneſſes do unanimouſly concur that for a long time to its laſt ex<g ref="char:EOLhyphen"/>tinguiſhing, it had no other complexion but that of <hi>Saturn,</hi> the ſignifi<g ref="char:EOLhyphen"/>cation whereof cannot be good, as the Satyrical Poet repreſents him in this Hexaſtich.</p>
+            <q>
+               <l>Pale and of Aſhy colour, Male-content,</l>
+               <l>A Cataline to Mortal Temperament,</l>
+               <l>That would blow up the Capitol of Man,</l>
+               <l>With Envious Influence, Melancholy, Wan,</l>
+               <l>And if <hi>Ill hate</hi> be in an Heavenly Breaſt,</l>
+               <l>This <hi>Planet</hi> with that <hi>Fury</hi> is poſſeſt.</l>
+            </q>
+            <p>
+               <pb n="21" facs="tcp:34862:11"/>The <hi>2d.</hi> Deſcription is of its Tail or Train, which ſome Foreign Ar<g ref="char:EOLhyphen"/>tiſts diſcovered by their Tubes and Teleſcopes to be red and fiery all a<g ref="char:EOLhyphen"/>long from the body of the Star (which then to them appeared red as before,) but it was pale towards the end of the Stream, having the re<g ref="char:EOLhyphen"/>ſemblance of thoſe long Streamers, which Men of War (Ships of the firſt Rate) do carry with them; ſo that 1, As to its <hi>Colour</hi> which was <hi>Red</hi> at the beginning, and <hi>pale</hi> at the end of it, and 2. as to its <hi>Reſemblance</hi> of a War-Streamer, it plainly portends as if the <hi>Red Horſe [War]</hi> ſhould Uſher in the <hi>pale Horſe [Death]</hi> which 2 colours the Seal-Prophecy mentioneth, <hi>Revel.</hi> 6.4.8. <hi>War</hi> is commonly accompanied with Fire and Blood, 2 <hi>King.</hi> 3.22. Iſa. 9.5. and 63.1.3. and <hi>Death</hi> is commonly called <hi>pallida Mors,</hi> as it cauſeth a paleneſs of face. And if there were no Deception of Sight in thoſe who call this Saturnine Comet a black Star (ſuch as Chronology ſpeaketh of) then may it alſo denote the <hi>Black Horſe</hi> in that Seal Prophecy. <hi>Rev.</hi> 6.7. to wit, <hi>Famine,</hi> which diſco<g ref="char:EOLhyphen"/>loureth and denigrateth the Countenance, as <hi>Lam.</hi> 4.8. but whatſoever was the <hi>Colour</hi> of the Train, all conclude (even from ocular Demon<g ref="char:EOLhyphen"/>ſtration) that it was <hi>pale,</hi> and the portent thereof is bad enough; yet 3. as to the <hi>Length</hi> of this Streamer, it was conſpicuous to every com<g ref="char:EOLhyphen"/>mon eye to have a moſt prodigious extent, ſo that whether we take it, 1. as Gods <hi>Sweeping Broom,</hi> or 2. as Gods <hi>Swinging Rod,</hi> or 3. As Gods <hi>fla<g ref="char:EOLhyphen"/>ming Sword</hi> (as in the firſt Sheet) it evidently declares that the great God hath great puniſhing Inſtruments, either to <hi>ſweep</hi> away, or to <hi>ſwinge,</hi> or to <hi>ſlaſh</hi> and <hi>ſlay</hi> his Adverſaries, Thoſe that took the Longitude of this Train by <hi>Jacobs Staff,</hi> &amp;c. give us this Account, that the true dimenſi<g ref="char:EOLhyphen"/>on of its <hi>Blaze</hi> or <hi>Tail,</hi> was about 70 Degrees in Longitude, now ſup<g ref="char:EOLhyphen"/>poſe (as is generally ſuppoſed) that every particular Degree is 60 miles, then the <hi>Train</hi> of this Comet by this very computation, muſt be no leſs than about 427 miles long, yet conſidering the height of its ſcitua<g ref="char:EOLhyphen"/>tion, as the magnitude of a Planet, ſo the longitude of this Comet (in its Streamer) is much more than can be taken by the beſt ſight or pro<g ref="char:EOLhyphen"/>ſpect. The latitude or breadth of this Tail is computed by Artiſts alſo to be no leſs than 2 Degrees, which amounts unto an 120 miles, oh then what a Predigious Streamer muſt this be, that is 4270 miles long, and an 120 miles broad. In longitude it excelleth all <hi>Europe</hi> (which from St. <hi>Vincent</hi> in <hi>Portugal</hi> to <hi>Conſtantinople,</hi> bears but 3800 miles) and in latitude it exceedeth the Northern part of <hi>England,</hi> and every part of <hi>Scotland</hi> or <hi>Ireland.</hi> This introduceth the <hi>2d.</hi> part, to wit, the <hi>Appli<g ref="char:EOLhyphen"/>cation.</hi> It is therefore very incongruous and unchriſtian, yea rather brui<g ref="char:EOLhyphen"/>tiſh and barbarous for any <hi>Mortal man</hi> to deſpiſe or deride ſuch a pro<g ref="char:EOLhyphen"/>digious piece of work from the <hi>Immortal God</hi> (as is longer than the 4th part of the World, and broader than many Countries and Kingdoms) As ſome Princes of the World have lately done at this <hi>Comet,</hi> as it is re<g ref="char:EOLhyphen"/>Ported
+<pb n="22" facs="tcp:34862:12"/>of them: 'Tis writ, the <hi>French</hi> King frothily deſpiſed and deri<g ref="char:EOLhyphen"/>ded this preſent <hi>Comet,</hi> ſaying, <hi>It had spoiled his ſport at a grand Ballet</hi> (<hi>or Dance (compoſed with much curioſity, for his Sons</hi> (<hi>the</hi> Dauphins) <hi>Diverſion, when it was privately proved before him it pleaſed him well, but when it came to be publickly performed in his preſence before his No<g ref="char:EOLhyphen"/>bles and Ladies of Honour, there happened a Baffle in the Actors, which did fruſtrate his expectation, hereupon he jeeringly ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>offed that the Influ<g ref="char:EOLhyphen"/>ence of the Comet was fallen upon his Dance to ſpoil it, p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſibly before its portents paſs away, it may (in good earneſt) ſoil and ſpoil more of the</hi> French <hi>Dances.</hi> 'Tis ſtoried of <hi>Veſpaſian,</hi> that he ſcorn'd an <hi>Hairy Comet</hi> ſhining in his Sight, ſaying it concerned the King of <hi>Parthia</hi> who wore <hi>long Hair,</hi> and not himſelf who would not were any long Wiggs, (which this very blaze may poſſibly ſcorch) ſo it denounced no woe to him; notwithſtanding he ſoon after ſmarted, for his jeſting with Gods edge-tools. Any deſpight done to a mans work is a deſpight done to the Work-man himſelf, 'tis God <hi>that Works Signs and Wonders in Heaven and Earth,</hi> Dan. 6.27: Such as are <hi>De<g ref="char:EOLhyphen"/>ſpiſers</hi> of Gods <hi>Signs and Wonders,</hi> God will make them for <hi>Signs</hi> and <hi>Wonders</hi> in the World, <hi>Act,</hi> 13.41. <hi>Deut.</hi> 28.46. Thus God hanged up <hi>Pharaoh</hi> (as it were) in Gibbets, as a Sign and Wonder to the World, becauſe he deſpiſed Gods Signs and Wonders in the World. Something of this Divine Wrath <hi>Philip</hi> the 1. King of <hi>Spain</hi> did feel, when he took no warning at a <hi>Blazing-Star,</hi> ſent (it ſeems) to foreſhew his Death, which followed ſoon after, and when he lay in his dying Agonies, he continued crying out [<hi>Ha Cometa, Ha Cometa,</hi> &amp;c.] <hi>I took no warning by thee;</hi> but <hi>Charles</hi> the Great, (or <hi>Ludovicus Pius</hi> his Son, as ſome ſay) did bet<g ref="char:EOLhyphen"/>ter who did Fear at the Sight of a great Comet, blazing out before him, and when <hi>Egmundus</hi> his Aſtrologer (unwilling to ſee his Prince ſad, ur<g ref="char:EOLhyphen"/>ged to him <hi>Jer.</hi> 10.2. <hi>That he ſhould not be diſmayed at thoſe Signs,</hi> &amp;c. he prudently and piouſly anſwered, It was not the Sign (the Comet) but the maker of that Sign (God himſelf) that he <hi>feared,</hi> yet would he praiſe God for his tender clemency (withal) in Rebuking their ſlug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh<g ref="char:EOLhyphen"/>neſs with thoſe his Signs. They were not Fools but wiſe men that ſaid <hi>we have ſeen his Star in the East,</hi> Math. 2.2. 'twas a Star of Chriſts making, aſwel as <hi>leading</hi> to him, Where a <hi>Blazing Star</hi> led them to the <hi>Sun of Righteouſneſs,</hi> Mal. 4 2.</p>
+            <q>
+               <l>Mortals in Vain did never Gaze,</l>
+               <l>When Comets did in Heaven Blaze.</l>
+            </q>
+            <p>Beſides what I have ſaid in the Chronology of Comets aforementiond (all fore-warnings of following Evils) a little may be ad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, <hi>to wit.</hi> 1. Soon after that Comet in the year 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>37. with its very long Train, the French burnt <hi>Southampton,</hi> and did much more miſchief upon the Coaſts of <hi>England.</hi> 2. Soon after that in the year 1440. followed
+<pb n="23" facs="tcp:34862:12"/>here, the Barons Wars twixt <hi>York</hi> and <hi>Lancaſter;</hi> God bleſs us from the like 'twixt <hi>York</hi> and <hi>Monmouth.</hi> And 3. Soon after that Star which appeared in the year 1580. The Rebellion broke out in <hi>Ireland,</hi> through the Popes Inſtigation, who ſent <hi>Italians</hi> and <hi>Spaniards</hi> to aſſiſt the Iriſh (againſt Queen <hi>Eliſabeth</hi> in the 22 year of her Reign, <hi>October</hi> the 8. God bleſs us from the like Eruption now. Here withal take a little enlargement upon that Star in <hi>Caſſiopaea</hi> 1572. (aforeſaid) which gave Caution and Counſel to <hi>Charles</hi> the 9th of <hi>France</hi> (the Author of the Maſſacre at <hi>Paris</hi>) as likewiſe did <hi>Beza</hi> in his Poem concluding thus,</p>
+            <q>Tu verô, Herodes, Sanguinolen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e.</q>
+            <p>Yet this bloody Prince (another <hi>Herods</hi>) took no warning, but firſt wallowed in the Blood of Proteſtants, and at laſt God plagu'd him with ſuch an eruption of Blood in his own Body (then full of Blood, being in the flower of his Age) that he wallowed in his own Blood and was alſo Choaked with it. And upon that Comet in the year 1618. which foreran the Deſolations of <hi>Germany,</hi> God bleſs us from the like Deſo<g ref="char:EOLhyphen"/>lations: the Biſhop of <hi>Spalata</hi> (that Turn-Coat, as bad as he was) ſaid of that very Comet, that it was no Phantaſtick Phoenomenon, but Real and Significant, a true Exhalation, Inflamed, and no Deception of ſight about it: I would to God we did not exerciſe wild Fancies more than ſolid Judgment about theſe Prodigies, as this <hi>Comet,</hi> the fiery falling Bullet, and other Apparitions moſt Dreadful (of a Northern and Southern Army fighting in the Air: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) according to credible Infor<g ref="char:EOLhyphen"/>mation: Alas <hi>we know not the Signs of the Times.</hi> Math. 16.3. Luke. 21<g ref="char:punc">▪</g> 11. and Act. 2.9. Such as <hi>Dubartus</hi> deſcribeth in his <hi>Dodekaſtick,</hi> or 12. Verſes ſhewing how all Prodigies prognoſticate manifold Evils unto perſons and places of all Ranks and Qualities.</p>
+            <q>
+               <l>Here in the Night appears a flaming Spire,</l>
+               <l>There a fierce Dragon folded all in Fire;</l>
+               <l>Here a bright Comet, there a fiery <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eam,</l>
+               <l>Here flying Lances, there a burning Beam;</l>
+               <l>Here ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms an Honned Goat environd Round</l>
+               <l>With Fiery Flakes about the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bound,</l>
+               <l>There with long Bloody Hair, a Blazing Star,</l>
+               <l>Threatning the World with Famine, Plague and War<g ref="char:punc">▪</g>
+               </l>
+               <l>To Princes Death, to Kingdoms many Croſſes.</l>
+               <l>To all Eſtates inevitable Loſſes,</l>
+               <l>To Herdsmon Rots, to Plowmen hap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs Sedſons,</l>
+               <l>To Sailors ſtorms, to Cities civil Treaſons.</l>
+            </q>
+            <p>If we conſult. <hi>2ly, Paradigms;</hi> or Examples, as we have hitherto <hi>A<g ref="char:EOLhyphen"/>pothegms</hi> or Aſtrological-Rules (which are the <hi>Placits</hi> of Aſtrologers and (poſſibly) are onely <hi>ad placitum</hi> to be received) with the other in the Chronology, it may portend either one of, or ſome of, yea all of thoſe Evils which they portended, not onely to other Lands but alſo to
+<pb n="24" facs="tcp:34862:13"/>our Land, over which it was almoſt Vertical in <hi>Perſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> and <hi>Meduſa's</hi> Head when it Vaniſhed: <hi>Sed manum de Tabulà, ne Caldaizare videar,</hi> I withdraw my hand, leaſt I ſhould ſeem to ſpeak like a <hi>Caldean,</hi> whom it better becomes to ſpeak like a Chriſtian and like a Goſpel Miniſter wherewith I ſhall Conclude. The <hi>Men of Iſſachar</hi> were in great ac<g ref="char:EOLhyphen"/>count with David. <hi>(literal)</hi> who had <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding of the Times, and did know what Iſrael ought to do.</hi> 1 Chron. 12.32. <hi>A prudent man fore<g ref="char:EOLhyphen"/>ſeeth an evil and hideth himſelf,</hi> Prov. 22.3. He foreſeeth it not by any unlawful Divination, or by Gazing as common Star-Gazers in their Unwarantable Judiciary Aſtrology do) but by a Judicious obſervation of thoſe extraordinary Beacons which the wonder-working God fireth in the Firmament (which he never doth but to give warning that ſome miſchief is ready to make an Invaſion.) As alſo by a ſolid Collection and Connection of cauſes and conſequents: as, <hi>If God be the ſame that ever,</hi> as Holy, Juſt, Powerful, <hi>&amp;c.</hi> and, <hi>If Sin be the ſame that ever,</hi> as foul, loathſome, and God-provoking, <hi>&amp;c.</hi> Then ſuch effects and e<g ref="char:EOLhyphen"/>vents will follow ſuch cauſes and courſes: As there be natural ſigns (ſometimes) of an enſuing Judgment which prudent thinking Men can readily diſcover. If <hi>Elias</hi> ſee but a Cloud (though no bigger than a mans hand) come from the Top of <hi>Carmel,</hi> he can tell that it will cover the whole Heavens as with a black Curtain, and that a great Rain will follow after, 1 <hi>Kin.</hi> 18.44.45. The moſt tender Tempers are moſt ſenſible of the change of Weather. A <hi>Moſes</hi> (who converſeth with God (as a man with his Friend) is quick-ſighted, and eſpies Gods wrath at its firſt ſetting forth. <hi>Numb.</hi> 16.46. The more faith<g ref="char:EOLhyphen"/>ful and familiar that men are with God, the ſooner do they ſee his wrath ariſing and running forth: were we ſuch, and had we <hi>our Eyes in our Heads,</hi> as wiſe men. <hi>Eccleſ.</hi> 2.14. and <hi>
+                  <g ref="char:V">Ʋ</g>nderſtood we the Times,</hi> as thoſe of <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſachar</hi> did, knowing, by a ſingular Sagacity, both what is to be done, and when to do it, we ſhall be of great Account with our <hi>David Spiritual</hi> and may yet Retrieve, Retrench and Redeem ſome part (at leaſt) of thoſe evils that are <hi>Imminent</hi> over us, before they be <hi>Incum<g ref="char:EOLhyphen"/>bent</hi> on us: It remaineth that we ply our Spiritual Oars and Row hard as did the Diſciples. <hi>Joh.</hi> 6.19. our Jeſus will certainly come to us, though ſent we be both in the <hi>Deep,</hi> (ſo as we cannot feel bottom) and in the <hi>Dark</hi> ſo as we cannot ſee Shore; though the <hi>Child be come to the Birth and there is not ſtrength to bring forth,</hi> 2 <hi>Kings</hi> 19.3. yet Chriſt will come and Midwife it into the World, and after this <hi>Day of Rebuke,</hi> will bring his Spouſe into his Wine-Cellar under his Banner of Love and will draw out his beſt Wine (which he reſerved laſt) for her even the promiſes of the latter day: which ſhall be as <hi>Life from the Dead, Rom.</hi> 11.15. even ſo come Lord Jeſus come quickly <hi>Cito, Citius, Citiſſime, l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mera, be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amenu.</hi> Soon and in our Days.</p>
+            <closer>
+               <signed>So prays <hi>C. N.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="colophon">
+            <p>Publiſhed by <hi>L. Curtiſs</hi> on Ludgate-hill.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
